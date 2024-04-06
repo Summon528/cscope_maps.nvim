@@ -421,4 +421,5 @@ M.setup = function(opts)
 	end
 end
 
+M.cscope_parse_output = cscope_parse_output;
 return M
